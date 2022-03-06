@@ -53,6 +53,6 @@ struct MyAchievement: View {
 struct MyAchievement_Previews: PreviewProvider {
     static var previews: some View {
         MyAchievement()
-            .frame(width: 200, height: 200)
+            .frame(width: 250, height: 250)
     }
 }
